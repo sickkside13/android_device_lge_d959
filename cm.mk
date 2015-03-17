@@ -9,13 +9,13 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/lge/d950/d950.mk)
+$(call inherit-product, device/lge/d959/d959.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := d950
-PRODUCT_NAME := cm_d950
+PRODUCT_DEVICE := d959
+PRODUCT_NAME := cm_d959
 PRODUCT_BRAND := LGE
-PRODUCT_MODEL := Flex
+PRODUCT_MODEL := LG-D959
 PRODUCT_MANUFACTURER := lge
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
