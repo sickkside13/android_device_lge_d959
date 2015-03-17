@@ -19,6 +19,6 @@ include device/lge/z-common/BoardConfigCommon.mk
 TARGET_KERNEL_CONFIG := d959_defconfig
 #d950_defconfig
 
-G2_DTS_TARGET := msm8974-z-att
+G2_DTS_TARGET := msm8974-z-tmo
 
 TARGET_OTA_ASSERT_DEVICE := zee,f340k,d950,d959
