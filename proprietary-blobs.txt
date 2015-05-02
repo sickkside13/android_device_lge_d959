@@ -1,16 +1,16 @@
 # ADSP firmware
-firmware/image/adsp.b00
-firmware/image/adsp.b01
-firmware/image/adsp.b02
-firmware/image/adsp.b03
-firmware/image/adsp.b04
-firmware/image/adsp.b05
-firmware/image/adsp.b06
-firmware/image/adsp.b08
-firmware/image/adsp.b09
-firmware/image/adsp.b10
-firmware/image/adsp.b11
-firmware/image/adsp.mdt
+#firmware/image/adsp.b00
+#firmware/image/adsp.b01
+#firmware/image/adsp.b02
+#firmware/image/adsp.b03
+#firmware/image/adsp.b04
+#firmware/image/adsp.b05
+#firmware/image/adsp.b06
+#firmware/image/adsp.b08
+#firmware/image/adsp.b09
+#firmware/image/adsp.b10
+#firmware/image/adsp.b11
+#firmware/image/adsp.mdt
 
 # Broadcom (NFC) firmware
 vendor/firmware/BCM20791B5_002.006.013.0011.0043_Generic_I2C_NCD_Signed.ncd
